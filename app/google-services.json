@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297060350787",
+    "firebase_url": "https://userapp-44c35.firebaseio.com",
+    "project_id": "userapp-44c35",
+    "storage_bucket": "userapp-44c35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297060350787:android:8312a25485519158254df6",
+        "android_client_info": {
+          "package_name": "com.anoop.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297060350787-hbnf8pva09qanmt6as4ie0ugkpsdv820.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOAP4xnfxlv1Ek83dsWeXdpIQhD9nSmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297060350787-hbnf8pva09qanmt6as4ie0ugkpsdv820.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
